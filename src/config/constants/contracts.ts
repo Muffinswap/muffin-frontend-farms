@@ -1,11 +1,11 @@
 export default {
   cake: {
-    56: '0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
-    97: '',
+    56: '',
+    97: '0xb61db4938c598f8d800fa9ca72963d247ef23beb',
   },
   masterChef: {
-    56: '0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57',
-    97: '',
+    56: '',
+    97: '0xC90E2A9426459d41b4d6916a9068f99C96a124D7',
   },
   wbnb: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
@@ -24,7 +24,7 @@ export default {
     97: '0x67ADCB4dF3931b0C5Da724058ADC2174a9844412',
   },
   busd: {
-    56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
-    97: '',
+    56: '',
+    97: '0x337610d27c682e347c9cd60bd4b3b107c9d34ddd',
   },
 }

@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Eats',
+    label: 'Stake',
     icon: 'PoolIcon',
     href: '/nests',
   },
@@ -92,7 +92,7 @@ const config: MenuEntry[] = [
   },
   
   {
-    label: 'Audit by CertiK',
+    label: 'Airdrop',
     icon: 'AuditIcon',
     href: 'https://certik.org/projects/goose-finance',
   },

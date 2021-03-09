@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total MFX burned since launch"
+        "text": "Total MUFF burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn MFX"
+        "text": "Stake LP tokens to earn MUFF"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake MFX, get SYRUP."
+        "text": "Stake MUFF, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake MFX tokens, the contract will automatically harvest MFX rewards for you!"
+        "text": "Every time you stake and unstake MUFF tokens, the contract will automatically harvest MFX rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Mfx price"
+        "text": "Muff price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 MFX = 1 SYRUP"
+        "text": "1 MUFF = 1 SYRUP"
       }
     },
     {

@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% MFX"
+        "text": "%num% MUFF"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend MFX to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend MUFF to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% MFX Available"
+        "text": "%num% MUFF Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 MFX"
+        "text": "Your amount must be a multiple of 10 MUFF"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 MFX"
+        "text": "1 Ticket = 10 MUFF"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your MFX cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your MUFF cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "MFX prizes to be claimed"
+        "text": "MUFF prizes to be claimed"
       }
     },
     {
@@ -543,7 +543,7 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve MFX"
+        "text": "Approve MUFF"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New MFX\/block"
+        "text": "New MUFF/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "MFX to Harvest"
+        "text": "MUFF to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "MFX in Wallet"
+        "text": "MUFF in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting MFX"
+        "text": "Collecting MUFF"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "MFX to Collect"
+        "text": "MUFF to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake MFX to earn new tokens."
+        "text": "Stake MUFF to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "MFX to burn (USD)"
+        "text": "MUFF to burn (USD)"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy MFX and BNB tokens"
+        "text": "Buy MUFF and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get MFX-BNB LP tokens by adding MFX and BNB liquidity"
+        "text": "Get MUFF-BNB LP tokens by adding MUFF and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your MFX-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your MUFF-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for MFX, or keep for your collection!"
+        "text": "Trade in for MUFF, or keep for your collection!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a MFX value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a MUFF value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for MFX"
+        "text": "Trade in for MUFF"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn MFX"
+        "text": "Stake LP tokens to earn MUFF"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The MFX Lottery"
+        "text": "The MUFF Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with MFX"
+        "text": "Buy tickets with MUFF"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback MFX"
+        "text": "Deposit Fee will be used to buyback MUFF"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn MFX"
+        "text": "Stake tokens to earn MUFF"
       }
     },
     {

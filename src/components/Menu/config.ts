@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.goosedefi.com/',
+        href: '',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.goosedefi.com/#/pool',
+        href: '',
       },
     ],
   },
@@ -26,9 +26,9 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Stake',
+    label: 'Pools',
     icon: 'PoolIcon',
-    href: '/nests',
+    href: '/pools',
   },
   // {
   //   label: 'Pools',
@@ -40,30 +40,30 @@ const config: MenuEntry[] = [
   //   icon: 'TicketIcon',
   //   href: '/lottery',
   // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: '/nft',
-  // },
+  {
+     label: 'NFT (Coming Soon)',
+     icon: 'NftIcon',
+     href: '',
+     },
   {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
       {
         label: 'MuffinSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        href: 'https://pancakeswap.info/token/0xebc46c9898f675eefef43ec410dd91edbf0006c1',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
+        href: '',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        href: '',
       },
       {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+        label: 'Coming Soon',
+        href: '',
       },
     ],
   },
@@ -76,25 +76,25 @@ const config: MenuEntry[] = [
         href: 'https://github.com/muffinswap/',
       },
       {
-        label: 'Docs',
-        href: 'https://goosedefi.gitbook.io/goose-finance/',
+        label: 'Telegram',
+        href: '',
       },
       {
         label: 'Blog',
-        href: 'https://muffinswap.medium.com/',
+        href: 'https://medium.com/muffinfi',
       },
     ],
   },
   {
     label: 'Partnerships/IFO',
-    icon: 'GooseIcon',
+    icon: 'IfoIcon',
     href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
   },
   
   {
     label: 'Airdrop',
     icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
+    href: '',
   },
 ]
 

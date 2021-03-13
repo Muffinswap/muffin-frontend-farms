@@ -96,6 +96,16 @@ const config: MenuEntry[] = [
     icon: 'AuditIcon',
     href: 'https://surveyheart.com/form/604c366d536a73312359d895',
   },
+  {
+    label: 'Twitter',
+    icon: 'TwitterIcon',
+    href: 'https://twitter.com/muffinswapfi',
+  },
+  {
+    label: 'Telegram',
+    icon: 'TelegramIcon',
+    href: 'https://t.me/muffindefi',
+  },
 ]
 
 export default config

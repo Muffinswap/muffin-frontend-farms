@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '',
+        href: 'swap.muffinance.org',
       },
       {
         label: 'Liquidity',
-        href: '',
+        href: 'swap.mufinance.org',
       },
     ],
   },

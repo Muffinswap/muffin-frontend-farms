@@ -88,13 +88,13 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
+    href: '',
   },
   
   {
-    label: 'Airdrop Pools (50BNB)',
+    label: 'Claim 20 BNB',
     icon: 'AuditIcon',
-    href: '',
+    href: 'https://surveyheart.com/form/604c366d536a73312359d895',
   },
 ]
 

@@ -63,7 +63,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
         let apy = cakePrice.times(cakeRewardPerYear);
         if (farm.quoteTokenSymbol === QuoteToken.MUFF) {
           apy = cakePrice.times(cakeRewardPerMonth);
-
+        }
         let totalValue = new BigNumber(farm.lpTotalInQuoteToken || 0);
 
         if (farm.quoteTokenSymbol === QuoteToken.BNB) {

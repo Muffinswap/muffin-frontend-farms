@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x03b77404b582667ab7e7aae1116229e9e2038f31',
     },
-    tokenSymbol: 'MUFF',
+    tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
       56: '0xebC46C9898F675eEFef43EC410DD91eDbF0006c1',
@@ -24,9 +24,9 @@ const farms: FarmConfig[] = [
     lpSymbol: 'MUFF-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xd1b59d11316e87c3a0a069e80f590ba35cd8d8d3',
+      56: '0xaf54f0cF24A0547e80fba1A73Bb66F90cAfe7961',
     },
-    tokenSymbol: 'MUFF',
+    tokenSymbol: 'EGG',
     tokenAddresses: {
       97: '',
       56: '0xebC46C9898F675eEFef43EC410DD91eDbF0006c1',

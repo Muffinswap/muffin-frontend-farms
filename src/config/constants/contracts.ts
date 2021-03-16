@@ -3,6 +3,10 @@ export default {
     56: '0xebc46c9898f675eefef43ec410dd91edbf0006c1',
     97: '',
   },
+  muff: {
+    56: '0xebc46c9898f675eefef43ec410dd91edbf0006c1',
+    97: '',
+  },
   masterChef: {
     56: '0x26dA348628eF73C200Be6b2Ae80793EB668ccBD5',
     97: '',

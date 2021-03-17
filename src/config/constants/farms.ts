@@ -15,8 +15,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xebC46C9898F675eEFef43EC410DD91eDbF0006c1',
     },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
+    quoteTokenSymbol: QuoteToken.MUFF,
+    quoteTokenAdresses: contracts.muff,
   },
   {
     pid: 2,
@@ -31,8 +31,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xebC46C9898F675eEFef43EC410DD91eDbF0006c1',
     },
-    quoteTokenSymbol: QuoteToken.BNB,
-    quoteTokenAdresses: contracts.wbnb,
+    quoteTokenSymbol: QuoteToken.MUFF,
+    quoteTokenAdresses: contracts.muff,
   },
   {
     pid: 3,
@@ -47,8 +47,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xebC46C9898F675eEFef43EC410DD91eDbF0006c1',
     },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
+    quoteTokenSymbol: QuoteToken.MUFF,
+    quoteTokenAdresses: contracts.muff,
   },
 //  {
 //    pid: 4,
